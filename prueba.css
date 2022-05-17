@@ -1,0 +1,32 @@
+.titulo{
+  background: orange;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size:xx-large;
+}
+.menu{
+  color: black;
+  background: yellow;
+  font-family: cursive;
+  font-size:larger;
+}
+
+.cuerpo{
+  background: orange;
+  font-family: cursive;
+  font-size: smaller;
+  
+}
+
+.panel{
+  background: brown;
+}
+
+img{
+  opacity:0.5;
+}
+
+.pie{
+  color: black;
+  background: yellow;
+}
+
